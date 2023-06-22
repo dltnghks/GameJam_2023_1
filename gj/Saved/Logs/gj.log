@@ -3416,3 +3416,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.22-19.07.13:756][ 52]Cmd: EDIT PASTE
 [2023.06.22-19.07.25:474][674]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
 [2023.06.22-19.07.35:432][674]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/Demo_SceneC85AA2724D508DA9FF8F589E1112D9D8.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/ModularBuildingSet/Demo_Scene.umap'
+[2023.06.22-19.07.54:966][674]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/Demo_Scene_BuiltDataA16C74FC453B17C55B891FB33CFF17B2.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/ModularBuildingSet/Demo_Scene_BuiltData.uasset'
+[2023.06.22-19.07.55:151][674]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.22-19.07.55:151][674]LogContentValidation: Display: Validating World /Game/ModularBuildingSet/Demo_Scene.Demo_Scene
+[2023.06.22-19.07.55:151][674]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ModularBuildingSet/Demo_Scene_BuiltData.Demo_Scene_BuiltData
