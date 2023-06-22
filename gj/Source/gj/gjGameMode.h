@@ -13,6 +13,12 @@ class AgjGameMode : public AGameModeBase
 
 public:
 	AgjGameMode();
+
+public:
+	virtual void StartPlay() override;
+
+private:
+	class UScentGenerator* ScentGenerator;
 };
 
 

@@ -3,6 +3,7 @@
 #include "gjGameMode.h"
 #include "gjCharacter.h"
 #include "UObject/ConstructorHelpers.h"
+//#include "ScentGenerator.h"
 
 AgjGameMode::AgjGameMode()
 {
@@ -12,4 +13,11 @@ AgjGameMode::AgjGameMode()
 	{
 		DefaultPawnClass = PlayerPawnBPClass.Class;
 	}
+}
+
+void AgjGameMode::StartPlay()
+{
+	UE_LOG(LogTemp, Warning, TEXT("Log Message"));
+	//ScentGenerator = NewObject<UScentGenerator>();
+	
 }
