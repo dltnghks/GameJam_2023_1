@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\gj.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D3C37C64-C600-421C-BC7F-3000F7A12A71}</UniqueIdentifier>
+      <UniqueIdentifier>{B80A77F5-2374-4332-80B0-0426F0925D9E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\gj.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{CA3C4C95-E164-407C-B0AD-E3CB48AD521A}</UniqueIdentifier>
+      <UniqueIdentifier>{38D9D3C5-228E-4CAD-80B4-9F945508FD85}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\gj">
-      <UniqueIdentifier>{3056E8BF-0353-4CC3-82D9-E752AD59C163}</UniqueIdentifier>
+      <UniqueIdentifier>{FC6F3832-461B-4C30-9069-6DAD298CB371}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\gj\gj.Build.cs">
       <Filter>Source\gj</Filter>
@@ -51,6 +51,18 @@
       <Filter>Source\gj</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\gj\gjGameMode.h">
+      <Filter>Source\gj</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gj\Scent.cpp">
+      <Filter>Source\gj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gj\Scent.h">
+      <Filter>Source\gj</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gj\ScentGenerator.cpp">
+      <Filter>Source\gj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gj\ScentGenerator.h">
       <Filter>Source\gj</Filter>
     </ClInclude>
   </ItemGroup>
