@@ -1,2 +1,2 @@
-C:\Users\G418-22\Documents\Unreal Projects\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\Definitions.gj.h
-C:\Users\G418-22\Documents\Unreal Projects\gj\Source\gj\gj.h
+C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\Definitions.gj.h
+C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Source\gj\gj.h

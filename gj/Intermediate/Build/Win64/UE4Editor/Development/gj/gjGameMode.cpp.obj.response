@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\G418-22\Documents\Unreal Projects\gj\Intermediate\Build\Win64\UE4Editor\Inc\gj"
-/I "C:\Users\G418-22\Documents\Unreal Projects\gj\Source"
+/I C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Inc\gj
+/I C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -266,12 +266,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\G418-22\Documents\Unreal Projects\gj\Intermediate\Build\Win64\gjEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\G418-22\Documents\Unreal Projects\gj\Intermediate\Build\Win64\gjEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\G418-22\Documents\Unreal Projects\gj\Intermediate\Build\Win64\gjEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\G418-22\Documents\Unreal Projects\gj\Source\gj\gjGameMode.cpp"
-/FI"C:\Users\G418-22\Documents\Unreal Projects\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\Definitions.gj.h"
-/Fo"C:\Users\G418-22\Documents\Unreal Projects\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\gjGameMode.cpp.obj"
+/FI"C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\gjEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\gjEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\gjEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Source\gj\gjGameMode.cpp"
+/FI"C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\Definitions.gj.h"
+/Fo"C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\gjGameMode.cpp.obj"
 /TP
 /GR-
 /W4

@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "gj",
-			"Path": "C:\\Users\\G418-22\\Documents\\Unreal Projects\\gj\\Source\\gj.Target.cs",
+			"Path": "C:\\Users\\G418-23\\Desktop\\gamejam\\Gamejam_2023_1\\gj\\Source\\gj.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "gjEditor",
-			"Path": "C:\\Users\\G418-22\\Documents\\Unreal Projects\\gj\\Source\\gjEditor.Target.cs",
+			"Path": "C:\\Users\\G418-23\\Desktop\\gamejam\\Gamejam_2023_1\\gj\\Source\\gjEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
