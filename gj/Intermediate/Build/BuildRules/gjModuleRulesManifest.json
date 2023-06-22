@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\2jh09\\Desktop\\Github\\Gamejam_2023_1\\gj\\Source\\gj\\gj.Build.cs",
-		"C:\\Users\\2jh09\\Desktop\\Github\\Gamejam_2023_1\\gj\\Source\\gj.Target.cs",
-		"C:\\Users\\2jh09\\Desktop\\Github\\Gamejam_2023_1\\gj\\Source\\gjEditor.Target.cs"
+		"C:\\Users\\G418-23\\Desktop\\gamejam\\Gamejam_2023_1\\gj\\Source\\gj\\gj.Build.cs",
+		"C:\\Users\\G418-23\\Desktop\\gamejam\\Gamejam_2023_1\\gj\\Source\\gj.Target.cs",
+		"C:\\Users\\G418-23\\Desktop\\gamejam\\Gamejam_2023_1\\gj\\Source\\gjEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }

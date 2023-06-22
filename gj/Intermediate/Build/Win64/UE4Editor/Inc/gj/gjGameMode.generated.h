@@ -14,8 +14,18 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define GJ_gjGameMode_generated_h
 
 #define gj_Source_gj_gjGameMode_h_12_SPARSE_DATA
-#define gj_Source_gj_gjGameMode_h_12_RPC_WRAPPERS
-#define gj_Source_gj_gjGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define gj_Source_gj_gjGameMode_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execDiscountFlower); \
+	DECLARE_FUNCTION(execGetFlowerCount);
+
+
+#define gj_Source_gj_gjGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execDiscountFlower); \
+	DECLARE_FUNCTION(execGetFlowerCount);
+
+
 #define gj_Source_gj_gjGameMode_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAgjGameMode(); \

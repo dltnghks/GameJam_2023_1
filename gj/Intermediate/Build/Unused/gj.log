@@ -1,12 +1,18 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\2jh09\Desktop\Github\Gamejam_2023_1).
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1).
+  Parsing headers for gjEditor
+    Running UnrealHeaderTool "C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\gj.uproject" "C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\gjEditor\Development\gjEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\G418-23\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for gjEditor in 2.4986858 seconds
   Building gjEditor...
-  Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 12 processes...
-    [1/4] ScentGenerator.cpp
-    [2/4] UE4Editor-gj-0012.lib
-       C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0012.lib 라이브러리 및 C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0012.exp 개체를 생성하고 있습니다.
-    [3/4] UE4Editor-gj-0012.dll
-       C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0012.suppressed.lib 라이브러리 및 C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0012.suppressed.exp 개체를 생성하고 있습니다.
-    [4/4] gjEditor.target
-  Total time in Parallel executor: 2.34 seconds
-  Total execution time: 3.94 seconds
+  Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 20 processes...
+    [1/6] gj.init.gen.cpp
+    [2/6] gjGameMode.gen.cpp
+    [3/6] gjGameMode.cpp
+    [4/6] UE4Editor-gj-0003.lib
+       C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0003.lib 라이브러리 및 C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0003.exp 개체를 생성하고 있습니다.
+    [5/6] UE4Editor-gj-0003.dll
+       C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0003.suppressed.lib 라이브러리 및 C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0003.suppressed.exp 개체를 생성하고 있습니다.
+    [6/6] gjEditor.target
+  Total time in Parallel executor: 1.30 seconds
+  Total execution time: 4.26 seconds

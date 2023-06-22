@@ -11,7 +11,6 @@ AScentGenerator::AScentGenerator()
 	PrimaryActorTick.bCanEverTick = true;
 
 	ScentSpawnTime = 10;
-
 	//ScentGeneratorMesh = CreateDefaultSubobject<UStaticMesh>(FName("StaticMesh"));
 }
 
@@ -67,4 +66,3 @@ void AScentGenerator::Tick(float DeltaTime)
 		GeneratedScent->SetActive(true);
 	}
 }
-

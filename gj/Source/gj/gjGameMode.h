@@ -13,6 +13,19 @@ class AgjGameMode : public AGameModeBase
 
 public:
 	AgjGameMode();
+
+	virtual void BeginPlay() override;
+
+	UFUNCTION(BlueprintCallable)
+		int GetFlowerCount() { return FlowerCount; }
+
+	void SetFlowerCount(int num) { FlowerCount = num; }
+
+	UFUNCTION(BlueprintCallable)
+		void DiscountFlower(){ FlowerCount--; }
+
+private:
+	int FlowerCount;
 };
 
 
