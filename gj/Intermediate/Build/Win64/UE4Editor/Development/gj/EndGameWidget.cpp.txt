@@ -1,5 +1,5 @@
-C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\Definitions.gj.h
-C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Source\gj\EndGameWidget.h
+C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\Definitions.gj.h
+C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Source\gj\EndGameWidget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
@@ -99,7 +99,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
-C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Inc\gj\EndGameWidget.generated.h
+C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Inc\gj\EndGameWidget.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/UMG/Public/Components/Button.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/ContentWidget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/PanelWidget.h
