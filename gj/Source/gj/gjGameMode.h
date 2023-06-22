@@ -22,10 +22,16 @@ public:
 	void SetFlowerCount(int num) { FlowerCount = num; }
 
 	UFUNCTION(BlueprintCallable)
-		void DiscountFlower(){ FlowerCount--; }
+		void DiscountFlower();
+
+	UPROPERTY()
+		class UHUDWidget* HUDWidget;
 
 private:
 	int FlowerCount;
+
+	UPROPERTY(EditDefaultsOnly)
+		TSubclassOf<class UHUDWidget> BP_HUDWidget;
 };
 
 

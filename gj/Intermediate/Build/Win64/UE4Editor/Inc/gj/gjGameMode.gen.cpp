@@ -17,6 +17,8 @@ void EmptyLinkFunctionForGeneratedCodegjGameMode() {}
 	GJ_API UClass* Z_Construct_UClass_AgjGameMode();
 	ENGINE_API UClass* Z_Construct_UClass_AGameModeBase();
 	UPackage* Z_Construct_UPackage__Script_gj();
+	GJ_API UClass* Z_Construct_UClass_UHUDWidget_NoRegister();
+	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 // End Cross Module References
 	DEFINE_FUNCTION(AgjGameMode::execDiscountFlower)
 	{
@@ -106,6 +108,15 @@ void EmptyLinkFunctionForGeneratedCodegjGameMode() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_HUDWidget_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_HUDWidget;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_BP_HUDWidget_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FClassPropertyParams NewProp_BP_HUDWidget;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
 	};
@@ -125,6 +136,24 @@ void EmptyLinkFunctionForGeneratedCodegjGameMode() {}
 		{ "ShowCategories", "Input|MouseInput Input|TouchInput" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AgjGameMode_Statics::NewProp_HUDWidget_MetaData[] = {
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "gjGameMode.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AgjGameMode_Statics::NewProp_HUDWidget = { "HUDWidget", nullptr, (EPropertyFlags)0x0010000000080008, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AgjGameMode, HUDWidget), Z_Construct_UClass_UHUDWidget_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AgjGameMode_Statics::NewProp_HUDWidget_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AgjGameMode_Statics::NewProp_HUDWidget_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AgjGameMode_Statics::NewProp_BP_HUDWidget_MetaData[] = {
+		{ "Category", "gjGameMode" },
+		{ "ModuleRelativePath", "gjGameMode.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_AgjGameMode_Statics::NewProp_BP_HUDWidget = { "BP_HUDWidget", nullptr, (EPropertyFlags)0x0044000000010001, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AgjGameMode, BP_HUDWidget), Z_Construct_UClass_UHUDWidget_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_AgjGameMode_Statics::NewProp_BP_HUDWidget_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AgjGameMode_Statics::NewProp_BP_HUDWidget_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AgjGameMode_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AgjGameMode_Statics::NewProp_HUDWidget,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AgjGameMode_Statics::NewProp_BP_HUDWidget,
+	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AgjGameMode_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AgjGameMode>::IsAbstract,
 	};
@@ -134,11 +163,11 @@ void EmptyLinkFunctionForGeneratedCodegjGameMode() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		FuncInfo,
-		nullptr,
+		Z_Construct_UClass_AgjGameMode_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
 		UE_ARRAY_COUNT(FuncInfo),
-		0,
+		UE_ARRAY_COUNT(Z_Construct_UClass_AgjGameMode_Statics::PropPointers),
 		0,
 		0x008802ACu,
 		METADATA_PARAMS(Z_Construct_UClass_AgjGameMode_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_AgjGameMode_Statics::Class_MetaDataParams))
@@ -152,7 +181,7 @@ void EmptyLinkFunctionForGeneratedCodegjGameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AgjGameMode, 418193487);
+	IMPLEMENT_CLASS(AgjGameMode, 1832571238);
 	template<> GJ_API UClass* StaticClass<AgjGameMode>()
 	{
 		return AgjGameMode::StaticClass();
