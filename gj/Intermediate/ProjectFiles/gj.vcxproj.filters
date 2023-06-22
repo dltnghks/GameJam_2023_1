@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\gj.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EA9780D9-CCAD-460B-84D2-6BB46FA1C719}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\gj.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\gjEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C8178F21-54ED-4DC5-8CAE-1DCC741047DE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\gj">
+      <UniqueIdentifier>{799F599F-96FE-4319-8E84-C16B7EFCB42C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\gj\gj.Build.cs">
+      <Filter>Source\gj</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\gj\gj.cpp">
+      <Filter>Source\gj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gj\gj.h">
+      <Filter>Source\gj</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gj\gjCharacter.cpp">
+      <Filter>Source\gj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gj\gjCharacter.h">
+      <Filter>Source\gj</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gj\gjGameMode.cpp">
+      <Filter>Source\gj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gj\gjGameMode.h">
+      <Filter>Source\gj</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

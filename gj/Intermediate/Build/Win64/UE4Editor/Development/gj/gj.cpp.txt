@@ -1,0 +1,2 @@
+C:\Users\G418-22\Documents\Unreal Projects\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\Definitions.gj.h
+C:\Users\G418-22\Documents\Unreal Projects\gj\Source\gj\gj.h
