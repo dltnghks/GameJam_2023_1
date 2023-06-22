@@ -3344,3 +3344,75 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.22-19.04.34:176][866]LogTemp: Spawn
 [2023.06.22-19.04.34:185][866]LogTemp: Spawn
 [2023.06.22-19.04.34:197][866]LogTemp: Spawn
+[2023.06.22-19.04.44:297][139]LogTemp: Spawn
+[2023.06.22-19.04.44:297][139]LogTemp: Spawn
+[2023.06.22-19.04.44:297][139]LogTemp: Spawn
+[2023.06.22-19.04.44:297][139]LogTemp: Spawn
+[2023.06.22-19.04.44:297][139]LogTemp: Spawn
+[2023.06.22-19.04.54:296][486]LogTemp: Spawn
+[2023.06.22-19.04.54:297][486]LogTemp: Spawn
+[2023.06.22-19.04.54:297][486]LogTemp: Spawn
+[2023.06.22-19.04.54:297][486]LogTemp: Spawn
+[2023.06.22-19.04.54:297][486]LogTemp: Spawn
+[2023.06.22-19.05.04:298][ 79]LogTemp: Spawn
+[2023.06.22-19.05.04:298][ 79]LogTemp: Spawn
+[2023.06.22-19.05.04:298][ 79]LogTemp: Spawn
+[2023.06.22-19.05.04:299][ 79]LogTemp: Spawn
+[2023.06.22-19.05.04:299][ 79]LogTemp: Spawn
+[2023.06.22-19.05.14:306][679]LogTemp: Spawn
+[2023.06.22-19.05.14:306][679]LogTemp: Spawn
+[2023.06.22-19.05.14:306][679]LogTemp: Spawn
+[2023.06.22-19.05.14:306][679]LogTemp: Spawn
+[2023.06.22-19.05.14:306][679]LogTemp: Spawn
+[2023.06.22-19.05.24:311][278]LogTemp: Spawn
+[2023.06.22-19.05.24:311][278]LogTemp: Spawn
+[2023.06.22-19.05.24:311][278]LogTemp: Spawn
+[2023.06.22-19.05.24:311][278]LogTemp: Spawn
+[2023.06.22-19.05.24:311][278]LogTemp: Spawn
+[2023.06.22-19.05.34:312][877]LogTemp: Spawn
+[2023.06.22-19.05.34:312][877]LogTemp: Spawn
+[2023.06.22-19.05.34:312][877]LogTemp: Spawn
+[2023.06.22-19.05.34:312][877]LogTemp: Spawn
+[2023.06.22-19.05.34:312][877]LogTemp: Spawn
+[2023.06.22-19.05.44:331][473]LogTemp: Spawn
+[2023.06.22-19.05.44:331][473]LogTemp: Spawn
+[2023.06.22-19.05.44:331][473]LogTemp: Spawn
+[2023.06.22-19.05.44:331][473]LogTemp: Spawn
+[2023.06.22-19.05.44:331][473]LogTemp: Spawn
+[2023.06.22-19.05.46:638][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-19.05.46:639][608]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene
+[2023.06.22-19.05.46:647][608]LogWorld: UWorld::CleanupWorld for Demo_Scene, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-19.05.46:717][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-19.05.46:736][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-19.05.46:785][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-19.05.46:891][608]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.22-19.05.46:891][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-19.05.46:893][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-19.05.46:898][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-19.05.46:948][608]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2023.06.22-19.05.47:047][609]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.06.22-19.05.54:539][ 10]Cmd: DELETE
+[2023.06.22-19.05.54:539][ 10]Cmd: ACTOR DELETE
+[2023.06.22-19.05.54:858][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.22-19.05.54:924][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   8.19ms
+[2023.06.22-19.05.54:938][ 10]LogEditorActor: Deleted 1 Actors (0.398 secs)
+[2023.06.22-19.06.01:150][255]LogActorFactory: Actor Factory created upper_brick_clmn_dvdr_1x1
+[2023.06.22-19.06.02:471][312]LogActorFactory: Actor Factory created upper_brick_clmn_dvdr_1x1
+[2023.06.22-19.06.17:006][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (beam_metal_window_divider_5x1)
+[2023.06.22-19.06.17:701][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_clmn_dvdr_1x1)
+[2023.06.22-19.06.36:664][127]Cmd: EDIT COPY
+[2023.06.22-19.06.36:960][143]Cmd: EDIT PASTE
+[2023.06.22-19.06.45:980][646]Cmd: EDIT COPY
+[2023.06.22-19.06.46:162][652]Cmd: EDIT PASTE
+[2023.06.22-19.06.49:333][831]Cmd: EDIT COPY
+[2023.06.22-19.06.49:528][838]Cmd: EDIT PASTE
+[2023.06.22-19.06.52:748][994]Cmd: EDIT COPY
+[2023.06.22-19.06.52:933][  0]Cmd: EDIT PASTE
+[2023.06.22-19.06.56:270][186]Cmd: EDIT COPY
+[2023.06.22-19.06.56:458][196]Cmd: EDIT PASTE
+[2023.06.22-19.07.01:547][459]Cmd: EDIT COPY
+[2023.06.22-19.07.01:730][464]Cmd: EDIT PASTE
+[2023.06.22-19.07.13:564][ 43]Cmd: EDIT COPY
+[2023.06.22-19.07.13:756][ 52]Cmd: EDIT PASTE
+[2023.06.22-19.07.25:474][674]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2023.06.22-19.07.35:432][674]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/Demo_SceneC85AA2724D508DA9FF8F589E1112D9D8.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/ModularBuildingSet/Demo_Scene.umap'
