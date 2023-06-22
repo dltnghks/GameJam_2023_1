@@ -3420,3 +3420,545 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.22-19.07.55:151][674]AssetCheck: New page: Asset Save: multiple assets
 [2023.06.22-19.07.55:151][674]LogContentValidation: Display: Validating World /Game/ModularBuildingSet/Demo_Scene.Demo_Scene
 [2023.06.22-19.07.55:151][674]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ModularBuildingSet/Demo_Scene_BuiltData.Demo_Scene_BuiltData
+[2023.06.22-19.08.00:858][768]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.22-19.08.01:134][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.22-19.08.01:134][768]PIE: New page: PIE session: Demo_Scene (2023. 6. 23. 오후 1:08:01)
+[2023.06.22-19.08.01:135][768]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene
+[2023.06.22-19.08.03:161][768]LogPlayLevel: PIE: StaticDuplicateObject took: (2.025942s)
+[2023.06.22-19.08.03:162][768]LogAIModule: Creating AISystem for world Demo_Scene
+[2023.06.22-19.08.03:165][768]LogPlayLevel: PIE: World Init took: (0.004769s)
+[2023.06.22-19.08.03:167][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/Demo_Scene.Demo_Scene to /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene.Demo_Scene (2.032900s)
+[2023.06.22-19.08.03:249][768]LogUObjectHash: Compacting FUObjectHashTables data took  11.80ms
+[2023.06.22-19.08.03:254][768]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.06.22-19.08.03:255][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-19.08.03:255][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-19.08.03:255][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-19.08.03:255][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-19.08.03:255][768]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-19.08.03:255][768]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-19.08.03:255][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-19.08.03:255][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-19.08.03:256][768]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-19.08.03:256][768]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-19.08.03:256][768]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-19.08.03:256][768]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-19.08.03:267][768]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-19.08.03:267][768]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-19.08.03:304][768]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.22-19.08.03:304][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-19.08.03:304][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-19.08.03:304][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-19.08.03:305][768]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-19.08.03:305][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-19.08.03:305][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.22-19.08.03:307][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-19.08.03:307][768]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-19.08.03:307][768]LogInit: FAudioDevice initialized.
+[2023.06.22-19.08.03:307][768]LogAudio: Display: Audio Device (ID: 12) registered with world 'Demo_Scene'.
+[2023.06.22-19.08.03:326][768]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.22-19.08.03:972][768]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene.Demo_Scene up for play (max tick rate 60) at 2023.06.23-04.08.03
+[2023.06.22-19.08.03:980][768]LogWorld: Bringing up level for play took: 0.651263
+[2023.06.22-19.08.03:981][768]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2023.06.22-19.08.04:008][768]PIE: Server logged in
+[2023.06.22-19.08.04:010][768]PIE: Play in editor total start time 2.905 seconds.
+[2023.06.22-19.08.13:798][274]LogTemp: Spawn
+[2023.06.22-19.08.13:803][274]LogTemp: Spawn
+[2023.06.22-19.08.13:807][274]LogTemp: Spawn
+[2023.06.22-19.08.13:812][274]LogTemp: Spawn
+[2023.06.22-19.08.13:817][274]LogTemp: Spawn
+[2023.06.22-19.08.24:021][444]LogTemp: Spawn
+[2023.06.22-19.08.24:021][444]LogTemp: Spawn
+[2023.06.22-19.08.24:021][444]LogTemp: Spawn
+[2023.06.22-19.08.24:021][444]LogTemp: Spawn
+[2023.06.22-19.08.24:021][444]LogTemp: Spawn
+[2023.06.22-19.08.34:020][961]LogTemp: Spawn
+[2023.06.22-19.08.34:020][961]LogTemp: Spawn
+[2023.06.22-19.08.34:020][961]LogTemp: Spawn
+[2023.06.22-19.08.34:020][961]LogTemp: Spawn
+[2023.06.22-19.08.34:020][961]LogTemp: Spawn
+[2023.06.22-19.08.44:030][561]LogTemp: Spawn
+[2023.06.22-19.08.44:030][561]LogTemp: Spawn
+[2023.06.22-19.08.44:030][561]LogTemp: Spawn
+[2023.06.22-19.08.44:030][561]LogTemp: Spawn
+[2023.06.22-19.08.44:030][561]LogTemp: Spawn
+[2023.06.22-19.08.54:044][156]LogTemp: Spawn
+[2023.06.22-19.08.54:045][156]LogTemp: Spawn
+[2023.06.22-19.08.54:045][156]LogTemp: Spawn
+[2023.06.22-19.08.54:045][156]LogTemp: Spawn
+[2023.06.22-19.08.54:045][156]LogTemp: Spawn
+[2023.06.22-19.09.04:048][755]LogTemp: Spawn
+[2023.06.22-19.09.04:048][755]LogTemp: Spawn
+[2023.06.22-19.09.04:048][755]LogTemp: Spawn
+[2023.06.22-19.09.04:048][755]LogTemp: Spawn
+[2023.06.22-19.09.04:048][755]LogTemp: Spawn
+[2023.06.22-19.09.14:046][355]LogTemp: Spawn
+[2023.06.22-19.09.14:046][355]LogTemp: Spawn
+[2023.06.22-19.09.14:046][355]LogTemp: Spawn
+[2023.06.22-19.09.14:046][355]LogTemp: Spawn
+[2023.06.22-19.09.14:046][355]LogTemp: Spawn
+[2023.06.22-19.09.24:052][955]LogTemp: Spawn
+[2023.06.22-19.09.24:052][955]LogTemp: Spawn
+[2023.06.22-19.09.24:052][955]LogTemp: Spawn
+[2023.06.22-19.09.24:052][955]LogTemp: Spawn
+[2023.06.22-19.09.24:053][955]LogTemp: Spawn
+[2023.06.22-19.09.34:049][554]LogTemp: Spawn
+[2023.06.22-19.09.34:049][554]LogTemp: Spawn
+[2023.06.22-19.09.34:049][554]LogTemp: Spawn
+[2023.06.22-19.09.34:049][554]LogTemp: Spawn
+[2023.06.22-19.09.34:049][554]LogTemp: Spawn
+[2023.06.22-19.09.44:051][154]LogTemp: Spawn
+[2023.06.22-19.09.44:051][154]LogTemp: Spawn
+[2023.06.22-19.09.44:051][154]LogTemp: Spawn
+[2023.06.22-19.09.44:051][154]LogTemp: Spawn
+[2023.06.22-19.09.44:051][154]LogTemp: Spawn
+[2023.06.22-19.09.54:062][753]LogTemp: Spawn
+[2023.06.22-19.09.54:062][753]LogTemp: Spawn
+[2023.06.22-19.09.54:062][753]LogTemp: Spawn
+[2023.06.22-19.09.54:062][753]LogTemp: Spawn
+[2023.06.22-19.09.54:062][753]LogTemp: Spawn
+[2023.06.22-19.10.04:074][173]LogTemp: Spawn
+[2023.06.22-19.10.04:075][173]LogTemp: Spawn
+[2023.06.22-19.10.04:075][173]LogTemp: Spawn
+[2023.06.22-19.10.04:075][173]LogTemp: Spawn
+[2023.06.22-19.10.04:075][173]LogTemp: Spawn
+[2023.06.22-19.10.08:658][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-19.10.08:659][444]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene
+[2023.06.22-19.10.08:668][444]LogWorld: UWorld::CleanupWorld for Demo_Scene, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-19.10.08:737][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-19.10.08:754][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-19.10.08:814][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-19.10.08:922][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.22-19.10.08:922][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-19.10.08:924][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-19.10.08:930][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-19.10.08:983][444]LogUObjectHash: Compacting FUObjectHashTables data took   9.29ms
+[2023.06.22-19.10.09:077][445]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.06.22-19.10.21:863][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (upper_brick_clmn_dvdr_1x1)
+[2023.06.22-19.10.22:263][198]Cmd: EDIT COPY
+[2023.06.22-19.10.22:477][208]Cmd: EDIT PASTE
+[2023.06.22-19.10.36:399][997]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2023.06.22-19.10.44:589][997]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/Demo_Scene726931204F11BA1E6520088A7E5A9FFA.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/ModularBuildingSet/Demo_Scene.umap'
+[2023.06.22-19.10.56:431][997]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/Demo_Scene_BuiltData370E66D5453709A054FE82B7BD36ADA9.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/ModularBuildingSet/Demo_Scene_BuiltData.uasset'
+[2023.06.22-19.10.56:538][997]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.22-19.10.56:538][997]LogContentValidation: Display: Validating World /Game/ModularBuildingSet/Demo_Scene.Demo_Scene
+[2023.06.22-19.10.56:538][997]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ModularBuildingSet/Demo_Scene_BuiltData.Demo_Scene_BuiltData
+[2023.06.22-19.11.01:619][280]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.22-19.11.01:647][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.22-19.11.01:647][280]PIE: New page: PIE session: Demo_Scene (2023. 6. 23. 오후 1:11:01)
+[2023.06.22-19.11.01:647][280]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene
+[2023.06.22-19.11.02:938][280]LogPlayLevel: PIE: StaticDuplicateObject took: (1.290090s)
+[2023.06.22-19.11.02:939][280]LogAIModule: Creating AISystem for world Demo_Scene
+[2023.06.22-19.11.02:941][280]LogPlayLevel: PIE: World Init took: (0.003605s)
+[2023.06.22-19.11.02:943][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/Demo_Scene.Demo_Scene to /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene.Demo_Scene (1.295666s)
+[2023.06.22-19.11.03:005][280]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2023.06.22-19.11.03:007][280]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.06.22-19.11.03:007][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-19.11.03:007][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-19.11.03:007][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-19.11.03:007][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-19.11.03:007][280]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-19.11.03:007][280]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-19.11.03:007][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-19.11.03:007][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-19.11.03:008][280]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-19.11.03:008][280]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-19.11.03:008][280]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-19.11.03:008][280]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-19.11.03:016][280]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-19.11.03:016][280]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-19.11.03:048][280]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.22-19.11.03:048][280]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-19.11.03:048][280]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-19.11.03:048][280]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-19.11.03:050][280]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-19.11.03:051][280]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-19.11.03:051][280]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.22-19.11.03:052][280]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-19.11.03:052][280]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-19.11.03:052][280]LogInit: FAudioDevice initialized.
+[2023.06.22-19.11.03:052][280]LogAudio: Display: Audio Device (ID: 13) registered with world 'Demo_Scene'.
+[2023.06.22-19.11.03:067][280]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.22-19.11.03:527][280]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene.Demo_Scene up for play (max tick rate 60) at 2023.06.23-04.11.03
+[2023.06.22-19.11.03:534][280]LogWorld: Bringing up level for play took: 0.464197
+[2023.06.22-19.11.03:534][280]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2023.06.22-19.11.03:555][280]PIE: Server logged in
+[2023.06.22-19.11.03:556][280]PIE: Play in editor total start time 1.926 seconds.
+[2023.06.22-19.11.13:266][839]LogTemp: Spawn
+[2023.06.22-19.11.13:271][839]LogTemp: Spawn
+[2023.06.22-19.11.13:275][839]LogTemp: Spawn
+[2023.06.22-19.11.13:279][839]LogTemp: Spawn
+[2023.06.22-19.11.13:283][839]LogTemp: Spawn
+[2023.06.22-19.11.23:273][436]LogTemp: Spawn
+[2023.06.22-19.11.23:273][436]LogTemp: Spawn
+[2023.06.22-19.11.23:273][436]LogTemp: Spawn
+[2023.06.22-19.11.23:273][436]LogTemp: Spawn
+[2023.06.22-19.11.23:273][436]LogTemp: Spawn
+[2023.06.22-19.11.33:283][ 36]LogTemp: Spawn
+[2023.06.22-19.11.33:283][ 36]LogTemp: Spawn
+[2023.06.22-19.11.33:283][ 36]LogTemp: Spawn
+[2023.06.22-19.11.33:283][ 36]LogTemp: Spawn
+[2023.06.22-19.11.33:283][ 36]LogTemp: Spawn
+[2023.06.22-19.11.43:297][635]LogTemp: Spawn
+[2023.06.22-19.11.43:297][635]LogTemp: Spawn
+[2023.06.22-19.11.43:297][635]LogTemp: Spawn
+[2023.06.22-19.11.43:297][635]LogTemp: Spawn
+[2023.06.22-19.11.43:297][635]LogTemp: Spawn
+[2023.06.22-19.11.53:309][218]LogTemp: Spawn
+[2023.06.22-19.11.53:309][218]LogTemp: Spawn
+[2023.06.22-19.11.53:309][218]LogTemp: Spawn
+[2023.06.22-19.11.53:309][218]LogTemp: Spawn
+[2023.06.22-19.11.53:309][218]LogTemp: Spawn
+[2023.06.22-19.12.03:327][817]LogTemp: Spawn
+[2023.06.22-19.12.03:327][817]LogTemp: Spawn
+[2023.06.22-19.12.03:327][817]LogTemp: Spawn
+[2023.06.22-19.12.03:327][817]LogTemp: Spawn
+[2023.06.22-19.12.03:327][817]LogTemp: Spawn
+[2023.06.22-19.12.06:927][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-19.12.06:927][ 29]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene
+[2023.06.22-19.12.06:936][ 29]LogWorld: UWorld::CleanupWorld for Demo_Scene, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-19.12.06:999][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-19.12.07:019][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-19.12.07:069][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-19.12.07:174][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-19.12.07:174][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-19.12.07:176][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-19.12.07:235][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   8.56ms
+[2023.06.22-19.12.07:335][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.06.22-19.12.19:662][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Cieling_01a)
+[2023.06.22-19.12.35:767][552]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.06.22-19.12.45:820][ 32]LogSlate: Window 'New Channel' being destroyed
+[2023.06.22-19.13.21:254][331]LogSlate: Window 'New Profile' being destroyed
+[2023.06.22-19.13.22:766][404]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2023.06.22-19.13.30:450][404]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/Demo_Scene5C96007444607525AB1122B7DE17C80D.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/ModularBuildingSet/Demo_Scene.umap'
+[2023.06.22-19.13.40:390][404]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/Demo_Scene_BuiltDataA97B16654E7BD537E89C7E9E241B46D9.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/ModularBuildingSet/Demo_Scene_BuiltData.uasset'
+[2023.06.22-19.13.40:512][404]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.22-19.13.40:512][404]LogContentValidation: Display: Validating World /Game/ModularBuildingSet/Demo_Scene.Demo_Scene
+[2023.06.22-19.13.40:512][404]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ModularBuildingSet/Demo_Scene_BuiltData.Demo_Scene_BuiltData
+[2023.06.22-19.13.45:656][703]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.22-19.13.45:681][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.22-19.13.45:681][703]PIE: New page: PIE session: Demo_Scene (2023. 6. 23. 오후 1:13:45)
+[2023.06.22-19.13.45:681][703]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene
+[2023.06.22-19.13.46:882][703]LogPlayLevel: PIE: StaticDuplicateObject took: (1.200195s)
+[2023.06.22-19.13.46:883][703]LogAIModule: Creating AISystem for world Demo_Scene
+[2023.06.22-19.13.46:886][703]LogPlayLevel: PIE: World Init took: (0.003841s)
+[2023.06.22-19.13.46:887][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/Demo_Scene.Demo_Scene to /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene.Demo_Scene (1.205845s)
+[2023.06.22-19.13.46:941][703]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2023.06.22-19.13.46:942][703]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.06.22-19.13.46:942][703]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-19.13.46:942][703]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-19.13.46:942][703]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-19.13.46:942][703]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-19.13.46:942][703]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-19.13.46:942][703]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-19.13.46:942][703]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-19.13.46:942][703]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-19.13.46:943][703]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-19.13.46:943][703]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-19.13.46:943][703]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-19.13.46:943][703]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-19.13.46:949][703]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-19.13.46:949][703]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-19.13.46:981][703]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.22-19.13.46:982][703]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-19.13.46:982][703]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-19.13.46:982][703]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-19.13.46:982][703]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-19.13.46:982][703]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-19.13.46:982][703]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.22-19.13.46:984][703]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-19.13.46:984][703]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-19.13.46:984][703]LogInit: FAudioDevice initialized.
+[2023.06.22-19.13.46:984][703]LogAudio: Display: Audio Device (ID: 14) registered with world 'Demo_Scene'.
+[2023.06.22-19.13.46:996][703]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.22-19.13.47:460][703]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene.Demo_Scene up for play (max tick rate 60) at 2023.06.23-04.13.47
+[2023.06.22-19.13.47:466][703]LogWorld: Bringing up level for play took: 0.467355
+[2023.06.22-19.13.47:466][703]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2023.06.22-19.13.47:483][703]PIE: Server logged in
+[2023.06.22-19.13.47:484][703]PIE: Play in editor total start time 1.82 seconds.
+[2023.06.22-19.13.57:189][256]LogTemp: Spawn
+[2023.06.22-19.13.57:194][256]LogTemp: Spawn
+[2023.06.22-19.13.57:198][256]LogTemp: Spawn
+[2023.06.22-19.13.57:202][256]LogTemp: Spawn
+[2023.06.22-19.13.57:206][256]LogTemp: Spawn
+[2023.06.22-19.14.07:202][854]LogTemp: Spawn
+[2023.06.22-19.14.07:202][854]LogTemp: Spawn
+[2023.06.22-19.14.07:202][854]LogTemp: Spawn
+[2023.06.22-19.14.07:202][854]LogTemp: Spawn
+[2023.06.22-19.14.07:202][854]LogTemp: Spawn
+[2023.06.22-19.14.17:208][453]LogTemp: Spawn
+[2023.06.22-19.14.17:208][453]LogTemp: Spawn
+[2023.06.22-19.14.17:208][453]LogTemp: Spawn
+[2023.06.22-19.14.17:208][453]LogTemp: Spawn
+[2023.06.22-19.14.17:209][453]LogTemp: Spawn
+[2023.06.22-19.14.27:224][ 51]LogTemp: Spawn
+[2023.06.22-19.14.27:224][ 51]LogTemp: Spawn
+[2023.06.22-19.14.27:224][ 51]LogTemp: Spawn
+[2023.06.22-19.14.27:224][ 51]LogTemp: Spawn
+[2023.06.22-19.14.27:224][ 51]LogTemp: Spawn
+[2023.06.22-19.14.37:225][646]LogTemp: Spawn
+[2023.06.22-19.14.37:225][646]LogTemp: Spawn
+[2023.06.22-19.14.37:225][646]LogTemp: Spawn
+[2023.06.22-19.14.37:225][646]LogTemp: Spawn
+[2023.06.22-19.14.37:225][646]LogTemp: Spawn
+[2023.06.22-19.14.47:230][246]LogTemp: Spawn
+[2023.06.22-19.14.47:230][246]LogTemp: Spawn
+[2023.06.22-19.14.47:230][246]LogTemp: Spawn
+[2023.06.22-19.14.47:230][246]LogTemp: Spawn
+[2023.06.22-19.14.47:231][246]LogTemp: Spawn
+[2023.06.22-19.14.57:235][845]LogTemp: Spawn
+[2023.06.22-19.14.57:236][845]LogTemp: Spawn
+[2023.06.22-19.14.57:236][845]LogTemp: Spawn
+[2023.06.22-19.14.57:236][845]LogTemp: Spawn
+[2023.06.22-19.14.57:236][845]LogTemp: Spawn
+[2023.06.22-19.15.07:239][445]LogTemp: Spawn
+[2023.06.22-19.15.07:239][445]LogTemp: Spawn
+[2023.06.22-19.15.07:239][445]LogTemp: Spawn
+[2023.06.22-19.15.07:239][445]LogTemp: Spawn
+[2023.06.22-19.15.07:239][445]LogTemp: Spawn
+[2023.06.22-19.15.17:250][ 43]LogTemp: Spawn
+[2023.06.22-19.15.17:251][ 43]LogTemp: Spawn
+[2023.06.22-19.15.17:251][ 43]LogTemp: Spawn
+[2023.06.22-19.15.17:251][ 43]LogTemp: Spawn
+[2023.06.22-19.15.27:257][640]LogTemp: Spawn
+[2023.06.22-19.15.27:257][640]LogTemp: Spawn
+[2023.06.22-19.15.27:257][640]LogTemp: Spawn
+[2023.06.22-19.15.27:257][640]LogTemp: Spawn
+[2023.06.22-19.15.30:597][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-19.15.30:597][833]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene
+[2023.06.22-19.15.30:606][833]LogWorld: UWorld::CleanupWorld for Demo_Scene, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-19.15.30:673][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-19.15.30:690][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-19.15.30:739][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-19.15.30:793][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-19.15.30:834][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-19.15.30:835][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-19.15.30:889][833]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2023.06.22-19.15.31:004][834]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.06.22-19.15.40:991][194]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_ScentGenerator_6.BP_ScentGenerator_6
+[2023.06.22-19.15.44:720][292]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_ScentGenerator.BP_ScentGenerator
+[2023.06.22-19.16.01:255][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_ScentGenerator_6" FILE="../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_ScentGenerator_6.uasset" SILENT=true
+[2023.06.22-19.16.01:278][ 86]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/BP_ScentGenerator_6495CA779439A8E0C864F0D9210DC3D3E.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_ScentGenerator_6.uasset'
+[2023.06.22-19.16.01:308][ 86]AssetCheck: New page: Asset Save: BP_ScentGenerator_6
+[2023.06.22-19.16.01:309][ 86]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/BP_ScentGenerator_6.BP_ScentGenerator_6
+[2023.06.22-19.16.02:113][121]BlueprintLog: New page: Compile BP_ScentGenerator_6
+[2023.06.22-19.16.02:117][121]LogBlueprint: Warning: [AssetLog] C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Content\Blueprint\BP_ScentGenerator_6.uasset: [Compiler] On Component Begin Overlap (Capsule)  does not have a valid matching component!
+[2023.06.22-19.16.02:236][121]LogUObjectHash: Compacting FUObjectHashTables data took  10.21ms
+[2023.06.22-19.16.02:805][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_ScentGenerator_6" FILE="../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_ScentGenerator_6.uasset" SILENT=true
+[2023.06.22-19.16.02:828][138]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/BP_ScentGenerator_6991483CF4DFBF2B1B4C61688A3772359.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_ScentGenerator_6.uasset'
+[2023.06.22-19.16.02:859][138]AssetCheck: New page: Asset Save: BP_ScentGenerator_6
+[2023.06.22-19.16.02:859][138]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/BP_ScentGenerator_6.BP_ScentGenerator_6
+[2023.06.22-19.16.18:347][798]BlueprintLog: New page: Compile BP_ScentGenerator_6
+[2023.06.22-19.16.18:482][798]LogUObjectHash: Compacting FUObjectHashTables data took  12.12ms
+[2023.06.22-19.16.19:875][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_ScentGenerator_6" FILE="../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_ScentGenerator_6.uasset" SILENT=true
+[2023.06.22-19.16.19:901][846]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/BP_ScentGenerator_63F804FA5460CD2CD30C8B1BB36D2AFE2.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_ScentGenerator_6.uasset'
+[2023.06.22-19.16.19:933][846]AssetCheck: New page: Asset Save: BP_ScentGenerator_6
+[2023.06.22-19.16.19:933][846]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/BP_ScentGenerator_6.BP_ScentGenerator_6
+[2023.06.22-19.19.13:028][247]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.22-19.19.13:041][247]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.06.22-19.19.36:263][493]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/gj.uproject" -game -rocket -progress
+[2023.06.22-19.19.37:083][493]Discovering modules, targets and source code for project...
+[2023.06.22-19.19.42:212][493]Binding IntelliSense data...
+[2023.06.22-19.19.48:793][493]Binding IntelliSense data... 100%
+[2023.06.22-19.19.48:793][493]Writing project files...
+[2023.06.22-19.19.59:361][493]Writing project files... 67%
+[2023.06.22-19.19.59:362][493]Writing project files... 100%
+[2023.06.22-19.20.01:871][493]Candidate modules for hot reload:
+[2023.06.22-19.20.01:871][493]  gj
+[2023.06.22-19.20.01:872][493]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=gj,3484 gjEditor Win64 Development -Project="C:/Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/gj.uproject" "C:/Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/gj.uproject"  -IgnoreJunk]
+[2023.06.22-19.20.41:804][493]CompilerResultsLog: New page: Compilation - 2023. 6. 23. 오후 1:20:41
+[2023.06.22-19.20.41:804][493]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\2jh09\Desktop\Github\Gamejam_2023_1).
+[2023.06.22-19.20.41:804][493]CompilerResultsLog: Creating makefile for gjEditor (no existing makefile)
+[2023.06.22-19.20.41:804][493]CompilerResultsLog: Parsing headers for gjEditor
+[2023.06.22-19.20.41:804][493]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\gj.uproject" "C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\gjEditor\Development\gjEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\2jh09\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.06.22-19.20.41:805][493]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.06.22-19.20.41:805][493]CompilerResultsLog: Reflection code generated for gjEditor in 11.2513031 seconds
+[2023.06.22-19.20.41:805][493]CompilerResultsLog: Building gjEditor...
+[2023.06.22-19.20.41:805][493]CompilerResultsLog: Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.06.22-19.20.41:805][493]CompilerResultsLog: Building 9 actions with 12 processes...
+[2023.06.22-19.20.41:805][493]CompilerResultsLog:   [1/9] gj.init.gen.cpp
+[2023.06.22-19.20.41:805][493]CompilerResultsLog:   c1xx: error C3859: PCH?? ???? ???? ?޸𸮸? ?????? ???߽??ϴ?.
+[2023.06.22-19.20.41:805][493]CompilerResultsLog:   c1xx: note: ?ý??ۿ??? 1455 ?ڵ带 ??ȯ??: ?? ?۾??? ?Ϸ??ϱ? ???? ????¡ ?????? ?ʹ? ?۽??ϴ?.
+[2023.06.22-19.20.41:805][493]CompilerResultsLog: 
+[2023.06.22-19.20.41:805][493]CompilerResultsLog: 
+[2023.06.22-19.20.41:805][493]CompilerResultsLog:   c1xx: note: ?ڼ??? ?????? https://aka.ms/pch-help?? ?????ϼ???.
+[2023.06.22-19.20.41:805][493]CompilerResultsLog:   c1xx: fatal error C1076: ?????Ϸ? ?Ѱ?: ???? ?? ?Ѱ迡 ?????߽??ϴ?.
+[2023.06.22-19.20.41:805][493]CompilerResultsLog:   [2/9] Scent.cpp
+[2023.06.22-19.20.41:805][493]CompilerResultsLog:   c1xx: error C3859: PCH?? ???? ???? ?޸𸮸? ?????? ???߽??ϴ?.
+[2023.06.22-19.20.41:805][493]CompilerResultsLog:   c1xx: note: ?ý??ۿ??? 1455 ?ڵ带 ??ȯ??: ?? ?۾??? ?Ϸ??ϱ? ???? ????¡ ?????? ?ʹ? ?۽??ϴ?.
+[2023.06.22-19.20.41:805][493]CompilerResultsLog: 
+[2023.06.22-19.20.41:805][493]CompilerResultsLog: 
+[2023.06.22-19.20.41:805][493]CompilerResultsLog:   c1xx: note: ?ڼ??? ?????? https://aka.ms/pch-help?? ?????ϼ???.
+[2023.06.22-19.20.41:807][493]CompilerResultsLog:   c1xx: fatal error C1076: ?????Ϸ? ?Ѱ?: ???? ?? ?Ѱ迡 ?????߽??ϴ?.
+[2023.06.22-19.20.41:807][493]CompilerResultsLog:   [3/9] ScentGenerator.cpp
+[2023.06.22-19.20.41:807][493]CompilerResultsLog:   [4/9] ScentGenerator.gen.cpp
+[2023.06.22-19.20.41:807][493]CompilerResultsLog:   [5/9] EndGameWidget.cpp
+[2023.06.22-19.20.41:807][493]CompilerResultsLog:   [6/9] EndGameWidget.gen.cpp
+[2023.06.22-19.20.41:807][493]LogMainFrame: MainFrame: Module compiling took 39.983 seconds
+[2023.06.22-19.20.41:832][493]Warning: HotReload failed, recompile failed
+[2023.06.22-19.20.41:832][493]Warning: RebindPackages failed because compilation failed.
+[2023.06.22-19.25.09:968][493]LogSlate: Window 'Message' being destroyed
+[2023.06.22-19.25.09:981][493]Message dialog closed, result: Yes, title: Message, text: Successfully added class 'EndGameWidget', however you must recompile the 'gj' module before it will appear in the Content Browser. Failed to automatically hot reload the 'gj' module.
+
+Would you like to open the Output Log to see more details?
+[2023.06.22-19.25.10:016][493]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.06.22-19.25.10:364][493]LogSlate: Took 0.001094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2023.06.22-19.25.30:781][484]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.06.22-19.28.09:443][887]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.22-19.28.09:460][887]LogHotReload: New module detected: UE4Editor-gj-0026.dll
+[2023.06.22-19.28.09:460][887]LogHotReload: New module detected: UE4Editor-gj-0027.dll
+[2023.06.22-19.28.09:490][888]LogHotReload: Starting Hot-Reload from IDE
+[2023.06.22-19.28.09:595][888]LogClass: Could not find existing class EndGameWidget in package /Script/gj for HotReload, assuming new class
+[2023.06.22-19.28.09:600][888]LogClass: Could not find existing class gjGameMode in package /Script/gj for HotReload, assuming new class
+[2023.06.22-19.28.09:600][888]LogClass: Function DiscountFlower is new.
+[2023.06.22-19.28.09:600][888]LogClass: Function GetFlowerCount is new.
+[2023.06.22-19.28.09:613][888]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2023.06.22-19.28.09:643][888]LogHotReload: Re-instancing gjGameMode after hot-reload.
+[2023.06.22-19.28.09:644][888]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2023.06.22-19.28.09:644][888]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2023.06.22-19.28.09:698][888]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'gj' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2023.06.22-19.28.09:732][888]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.06.22-19.28.10:109][888]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0236 seconds. Added 3829 classes and 932 folders.
+[2023.06.22-19.28.10:116][888]Display: HotReload took  0.6s.
+[2023.06.22-19.28.14:102][ 42]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.22-19.28.14:105][ 42]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.06.22-19.28.18:772][ 42]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.22-19.28.18:781][ 42]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.22-19.28.18:806][ 42]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.22-19.28.24:726][366]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EndGameWidget
+[2023.06.22-19.28.24:746][366]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.22-19.28.26:008][426]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/BP_EndGameWidget.BP_EndGameWidget
+[2023.06.22-19.29.02:042][283]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-19.33.49:510][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_EndGameWidget" FILE="../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_EndGameWidget.uasset" SILENT=true
+[2023.06.22-19.33.49:525][355]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/BP_EndGameWidgetEDD4BCC4434B4DBF5C3246B2B0BACC6E.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_EndGameWidget.uasset'
+[2023.06.22-19.33.49:581][355]AssetCheck: New page: Asset Save: BP_EndGameWidget
+[2023.06.22-19.33.49:581][355]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/BP_EndGameWidget.BP_EndGameWidget
+[2023.06.22-19.34.06:003][286]BlueprintLog: New page: Compile BP_EndGameWidget
+[2023.06.22-19.34.06:319][286]LogUObjectHash: Compacting FUObjectHashTables data took  14.32ms
+[2023.06.22-19.34.15:723][731]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/BP_HUDWidget.BP_HUDWidget
+[2023.06.22-19.36.10:582][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_HUDWidget" FILE="../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_HUDWidget.uasset" SILENT=true
+[2023.06.22-19.36.10:600][  7]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/BP_HUDWidget1414FF3F4271F9213218178AD42C065F.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_HUDWidget.uasset'
+[2023.06.22-19.36.10:653][  7]AssetCheck: New page: Asset Save: BP_HUDWidget
+[2023.06.22-19.36.10:653][  7]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/BP_HUDWidget.BP_HUDWidget
+[2023.06.22-19.36.13:869][189]BlueprintLog: New page: Compile BP_HUDWidget
+[2023.06.22-19.36.14:063][189]LogUObjectHash: Compacting FUObjectHashTables data took  12.53ms
+[2023.06.22-19.36.14:820][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_HUDWidget" FILE="../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_HUDWidget.uasset" SILENT=true
+[2023.06.22-19.36.14:835][226]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/BP_HUDWidget9A25BB8845E157E158F391A260CEBFA0.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_HUDWidget.uasset'
+[2023.06.22-19.36.14:884][226]AssetCheck: New page: Asset Save: BP_HUDWidget
+[2023.06.22-19.36.14:885][226]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/BP_HUDWidget.BP_HUDWidget
+[2023.06.22-19.37.16:642][562]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-19.37.26:609][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_EndGameWidget" FILE="../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_EndGameWidget.uasset" SILENT=true
+[2023.06.22-19.37.26:621][ 74]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/BP_EndGameWidget0A51F80A4C0584CD2C60BA860ABAD8C3.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_EndGameWidget.uasset'
+[2023.06.22-19.37.26:668][ 74]AssetCheck: New page: Asset Save: BP_EndGameWidget
+[2023.06.22-19.37.26:668][ 74]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/BP_EndGameWidget.BP_EndGameWidget
+[2023.06.22-19.38.00:742][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_EndGameWidget" FILE="../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_EndGameWidget.uasset" SILENT=true
+[2023.06.22-19.38.00:754][914]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/BP_EndGameWidget8F4834064CC08BD627AE789FDA85ABB5.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_EndGameWidget.uasset'
+[2023.06.22-19.38.00:809][914]AssetCheck: New page: Asset Save: BP_EndGameWidget
+[2023.06.22-19.38.00:809][914]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/BP_EndGameWidget.BP_EndGameWidget
+[2023.06.22-19.43.16:681][  5]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-19.43.24:916][459]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-19.43.31:153][799]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-19.43.34:007][964]BlueprintLog: New page: Compile BP_EndGameWidget
+[2023.06.22-19.43.34:141][964]LogUObjectHash: Compacting FUObjectHashTables data took  11.61ms
+[2023.06.22-19.43.34:644][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_EndGameWidget" FILE="../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_EndGameWidget.uasset" SILENT=true
+[2023.06.22-19.43.34:659][982]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/BP_EndGameWidgetB065E6FE4229A3885B08928DF5177471.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_EndGameWidget.uasset'
+[2023.06.22-19.43.34:696][982]AssetCheck: New page: Asset Save: BP_EndGameWidget
+[2023.06.22-19.43.34:696][982]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/BP_EndGameWidget.BP_EndGameWidget
+[2023.06.22-19.43.49:511][836]BlueprintLog: New page: Compile BP_EndGameWidget
+[2023.06.22-19.43.49:637][836]LogUObjectHash: Compacting FUObjectHashTables data took  10.66ms
+[2023.06.22-19.43.49:869][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_EndGameWidget" FILE="../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_EndGameWidget.uasset" SILENT=true
+[2023.06.22-19.43.49:879][839]LogSavePackage: Moving '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Saved/BP_EndGameWidget336F534947166209B2D2968F6B775A76.tmp' to '../../../../../../Users/2jh09/Desktop/Github/Gamejam_2023_1/gj/Content/Blueprint/BP_EndGameWidget.uasset'
+[2023.06.22-19.43.49:939][839]AssetCheck: New page: Asset Save: BP_EndGameWidget
+[2023.06.22-19.43.49:940][839]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/BP_EndGameWidget.BP_EndGameWidget
+[2023.06.22-19.47.25:679][524]LogHotReload: New module detected: UE4Editor-gj-0028.dll
+[2023.06.22-19.47.27:077][529]LogHotReload: Starting Hot-Reload from IDE
+[2023.06.22-19.47.27:177][529]LogClass: Could not find existing class EndGameWidget in package /Script/gj for HotReload, assuming new class
+[2023.06.22-19.47.27:177][529]LogClass: Function OnButtonClicked is new.
+[2023.06.22-19.47.27:252][529]LogHotReload: Re-instancing EndGameWidget after hot-reload.
+[2023.06.22-19.47.27:622][529]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2023.06.22-19.47.27:624][529]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'gj' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2023.06.22-19.47.27:641][529]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2023.06.22-19.47.28:071][529]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0192 seconds. Added 3829 classes and 932 folders.
+[2023.06.22-19.47.28:078][529]Display: HotReload took  1.0s.
+[2023.06.22-19.47.37:313][918]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.22-19.47.37:339][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.22-19.47.37:339][918]PIE: New page: PIE session: Demo_Scene (2023. 6. 23. 오후 1:47:37)
+[2023.06.22-19.47.37:365][918]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene
+[2023.06.22-19.47.38:403][918]LogPlayLevel: PIE: StaticDuplicateObject took: (1.038155s)
+[2023.06.22-19.47.38:405][918]LogAIModule: Creating AISystem for world Demo_Scene
+[2023.06.22-19.47.38:407][918]LogPlayLevel: PIE: World Init took: (0.003679s)
+[2023.06.22-19.47.38:408][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/Demo_Scene.Demo_Scene to /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene.Demo_Scene (1.043270s)
+[2023.06.22-19.47.38:526][918]LogUObjectHash: Compacting FUObjectHashTables data took  15.08ms
+[2023.06.22-19.47.38:535][918]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.06.22-19.47.38:536][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-19.47.38:536][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-19.47.38:536][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-19.47.38:536][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-19.47.38:536][918]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-19.47.38:536][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-19.47.38:536][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-19.47.38:536][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-19.47.38:537][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-19.47.38:537][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-19.47.38:537][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-19.47.38:537][918]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-19.47.38:545][918]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-19.47.38:545][918]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-19.47.38:581][918]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.22-19.47.38:582][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-19.47.38:582][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-19.47.38:582][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-19.47.38:582][918]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-19.47.38:582][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-19.47.38:582][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.22-19.47.38:583][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-19.47.38:583][918]LogInit: FAudioDevice initialized.
+[2023.06.22-19.47.38:583][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-19.47.38:583][918]LogAudio: Display: Audio Device (ID: 15) registered with world 'Demo_Scene'.
+[2023.06.22-19.47.38:597][918]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.22-19.47.38:957][918]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene.Demo_Scene up for play (max tick rate 60) at 2023.06.23-04.47.38
+[2023.06.22-19.47.38:962][918]LogWorld: Bringing up level for play took: 0.363486
+[2023.06.22-19.47.38:962][918]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2023.06.22-19.47.38:981][918]PIE: Error: CreateWidget called with a null class.
+[2023.06.22-19.47.38:981][918]PIE: Server logged in
+[2023.06.22-19.47.38:982][918]PIE: Play in editor total start time 1.66 seconds.
+[2023.06.22-19.47.48:678][478]LogTemp: Spawn
+[2023.06.22-19.47.48:682][478]LogTemp: Spawn
+[2023.06.22-19.47.48:686][478]LogTemp: Spawn
+[2023.06.22-19.47.48:690][478]LogTemp: Spawn
+[2023.06.22-19.47.48:692][478]LogTemp: Spawn
+[2023.06.22-19.47.58:682][ 74]LogTemp: Spawn
+[2023.06.22-19.47.58:682][ 74]LogTemp: Spawn
+[2023.06.22-19.47.58:682][ 74]LogTemp: Spawn
+[2023.06.22-19.47.58:682][ 74]LogTemp: Spawn
+[2023.06.22-19.47.58:682][ 74]LogTemp: Spawn
+[2023.06.22-19.48.08:681][674]LogTemp: Spawn
+[2023.06.22-19.48.08:681][674]LogTemp: Spawn
+[2023.06.22-19.48.08:681][674]LogTemp: Spawn
+[2023.06.22-19.48.08:681][674]LogTemp: Spawn
+[2023.06.22-19.48.08:681][674]LogTemp: Spawn
+[2023.06.22-19.48.18:690][274]LogTemp: Spawn
+[2023.06.22-19.48.18:690][274]LogTemp: Spawn
+[2023.06.22-19.48.18:690][274]LogTemp: Spawn
+[2023.06.22-19.48.18:690][274]LogTemp: Spawn
+[2023.06.22-19.48.18:690][274]LogTemp: Spawn
+[2023.06.22-19.48.28:689][874]LogTemp: Spawn
+[2023.06.22-19.48.28:689][874]LogTemp: Spawn
+[2023.06.22-19.48.28:689][874]LogTemp: Spawn
+[2023.06.22-19.48.28:689][874]LogTemp: Spawn
+[2023.06.22-19.48.28:689][874]LogTemp: Spawn
+[2023.06.22-19.48.38:692][466]LogTemp: Spawn
+[2023.06.22-19.48.38:692][466]LogTemp: Spawn
+[2023.06.22-19.48.38:692][466]LogTemp: Spawn
+[2023.06.22-19.48.38:692][466]LogTemp: Spawn
+[2023.06.22-19.48.38:692][466]LogTemp: Spawn
+[2023.06.22-19.48.38:749][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-19.48.38:749][467]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene
+[2023.06.22-19.48.38:756][467]LogWorld: UWorld::CleanupWorld for Demo_Scene, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-19.48.38:811][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-19.48.38:826][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-19.48.38:879][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-19.48.38:966][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-19.48.38:966][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-19.48.38:967][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-19.48.39:125][467]LogUObjectHash: Compacting FUObjectHashTables data took  14.60ms
+[2023.06.22-19.48.39:363][468]LogPlayLevel: Display: Destroying online subsystem :Context_54

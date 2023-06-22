@@ -2,17 +2,18 @@
   Parsing headers for gjEditor
     Running UnrealHeaderTool "C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\gj.uproject" "C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\gjEditor\Development\gjEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\2jh09\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
   LogInit: Display: Loading text-based GConfig....
-  Reflection code generated for gjEditor in 5.9083374 seconds
+  Reflection code generated for gjEditor in 6.3829851 seconds
   Building gjEditor...
   Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 6 actions with 12 processes...
-    [1/6] gj.init.gen.cpp
-    [2/6] gjGameMode.gen.cpp
-    [3/6] gjGameMode.cpp
-    [4/6] UE4Editor-gj-0021.lib
-       C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0021.lib 라이브러리 및 C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0021.exp 개체를 생성하고 있습니다.
-    [5/6] UE4Editor-gj-0021.dll
-       C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0021.suppressed.lib 라이브러리 및 C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0021.suppressed.exp 개체를 생성하고 있습니다.
-    [6/6] gjEditor.target
-  Total time in Parallel executor: 8.05 seconds
-  Total execution time: 15.51 seconds
+  Building 7 actions with 12 processes...
+    [1/7] gj.init.gen.cpp
+    [2/7] EndGameWidget.cpp
+    [3/7] EndGameWidget.gen.cpp
+    [4/7] gjGameMode.cpp
+    [5/7] UE4Editor-gj-0028.lib
+       C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0028.lib 라이브러리 및 C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0028.exp 개체를 생성하고 있습니다.
+    [6/7] UE4Editor-gj-0028.dll
+       C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0028.suppressed.lib 라이브러리 및 C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\UE4Editor-gj-0028.suppressed.exp 개체를 생성하고 있습니다.
+    [7/7] gjEditor.target
+  Total time in Parallel executor: 14.97 seconds
+  Total execution time: 22.91 seconds

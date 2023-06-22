@@ -69,7 +69,8 @@ public: \
 
 
 #define gj_Source_gj_gjGameMode_h_12_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__BP_HUDWidget() { return STRUCT_OFFSET(AgjGameMode, BP_HUDWidget); }
+	FORCEINLINE static uint32 __PPO__BP_HUDWidget() { return STRUCT_OFFSET(AgjGameMode, BP_HUDWidget); } \
+	FORCEINLINE static uint32 __PPO__BP_EndGameWidget() { return STRUCT_OFFSET(AgjGameMode, BP_EndGameWidget); }
 
 
 #define gj_Source_gj_gjGameMode_h_9_PROLOG

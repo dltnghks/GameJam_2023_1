@@ -127,3 +127,5 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\TextWidgetTypes.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\TextBlock.generated.h
 C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Inc\gj\HUDWidget.generated.h
+C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Source\gj\EndGameWidget.h
+C:\Users\2jh09\Desktop\Github\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Inc\gj\EndGameWidget.generated.h

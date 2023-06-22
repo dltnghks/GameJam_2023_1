@@ -5,6 +5,7 @@
 #include "UObject/ConstructorHelpers.h"
 #include "Kismet/GameplayStatics.h"
 #include "HUDWidget.h"
+#include "EndGameWidget.h"
 
 AgjGameMode::AgjGameMode()
 {
@@ -22,10 +23,19 @@ void AgjGameMode::BeginPlay() {
 
 	HUDWidget->ChangeAllValue(FlowerCount);
 	HUDWidget->ChangeRemainValue(FlowerCount);
+
+	EndGameWidget = CreateWidget<UEndGameWidget>(GetWorld(), BP_EndGameWidget);
 }
 
 void AgjGameMode::DiscountFlower()
 {
 	FlowerCount--;
 	HUDWidget->ChangeRemainValue(FlowerCount);
+	if (FlowerCount == 0) {
+		EndGame();
+	}
+}
+
+void AgjGameMode::EndGame()
+{
 }

@@ -26,12 +26,17 @@ public:
 
 	UPROPERTY()
 		class UHUDWidget* HUDWidget;
+	UPROPERTY()
+		class UEndGameWidget* EndGameWidget;
 
 private:
+	void EndGame();
 	int FlowerCount;
 
 	UPROPERTY(EditDefaultsOnly)
 		TSubclassOf<class UHUDWidget> BP_HUDWidget;
+	UPROPERTY(EditDefaultsOnly)
+		TSubclassOf<class UEndGameWidget> BP_EndGameWidget;
 };
 
 
