@@ -14,6 +14,7 @@
 
 AgjCharacter::AgjCharacter()
 {
+	UE_LOG(LogTemp, Log, TEXT("Character"));
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
 
@@ -112,8 +113,10 @@ void AgjCharacter::LookUpAtRate(float Rate)
 
 void AgjCharacter::MoveForward(float Value)
 {
+	UE_LOG(LogTemp, Log, TEXT("Move"));
 	if ((Controller != nullptr) && (Value != 0.0f))
 	{
+		UE_LOG(LogTemp, Log, TEXT("Move!"));
 		// find out which way is forward
 		const FRotator Rotation = Controller->GetControlRotation();
 		const FRotator YawRotation(0, Rotation.Yaw, 0);

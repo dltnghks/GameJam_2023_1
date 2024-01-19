@@ -1,5 +1,5 @@
-C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\Definitions.gj.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Source\gj/Scent.h
-C:\Users\G418-23\Desktop\gamejam\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Inc\gj\Scent.generated.h
+C:\Users\Administrator\Downloads\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Development\gj\Definitions.gj.h
+D:\soohwan\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\soohwan\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Administrator\Downloads\Gamejam_2023_1\gj\Source\gj/Scent.h
+C:\Users\Administrator\Downloads\Gamejam_2023_1\gj\Intermediate\Build\Win64\UE4Editor\Inc\gj\Scent.generated.h
